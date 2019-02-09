@@ -23,4 +23,4 @@ Although the problem is based on a time series structure we approached in a ML w
 * Calculate reduced and augmented versions of these predictions
 * Ensemble all the predictions in an optimal way
 
-All the details of this approach can be found on final-approach/final-approach.ipynb. We have also included other scripts with other approaches used in the hackathon but not submitted as final. With this approach we achivied a **53.79472 RSMLE (71/765) on the private leaderboard**.
+All the details of this approach can be found on [final-approach.ipynb](https://github.com/jgonzalezab/genpact-results/blob/master/final-approach/final-approach.ipynb). We have also included other scripts with other approaches used in the hackathon but not submitted as final. With this approach we achivied a **53.79472 RSMLE (71/765) on the private leaderboard**.
